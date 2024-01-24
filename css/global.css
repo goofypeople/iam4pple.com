@@ -7,20 +7,20 @@ body {
   }
   
   h1 {
-    font-size: 100px;
+    font-size: 75px;
     color: black;
-    font-family: trebuchet ms;
+    font-family: cursive;
   }
   
   h2 {
-    font-size: 25px;
+    font-size: 50px;
     color: black;
-    font-family: trebuchet ms;
+    font-family: cursive;
   }
   
   p {
-    font-family: trebuchet ms;
-    font-size: 50px;
+    font-family: cursive;
+    font-size: 25px;
     color: black;
   }
   
@@ -50,7 +50,7 @@ body {
     cursor: pointer;
     border-radius: 15px;
     font-size: 18px;
-    transition: 0.5s;
+    transition: 0.25s;
     background-color: rgba(31, 31, 31, 0.581);
   }
   
