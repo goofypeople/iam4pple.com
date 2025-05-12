@@ -79,3 +79,12 @@ button:disabled {
   cursor:not-allowed;
   color:var(--fgdark)
 }
+
+.large {
+  font-size:3rem;
+  margin:0
+}
+
+.special {
+  color:var(--lightgray)
+}
